@@ -33,8 +33,7 @@ Install all dependencies with this single command:
 
 ```bash
 pip install mediapipe opencv-python pycaw comtypes keyboard pynput numpy
-
-# Gesture Control Application
+```
 
 ## Deployment / Installation
 
@@ -45,7 +44,7 @@ pip install mediapipe opencv-python pycaw comtypes keyboard pynput numpy
 5. Run the application:
 
 ```bash
-python gesture_control.py
+python contro2l.py
 ```
 
 ## Usage Instructions
