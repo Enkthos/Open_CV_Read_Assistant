@@ -87,7 +87,3 @@ After running the script, the program starts in waiting mode and prints `"waitin
 - Implement mouse cursor control
 - Improve gesture smoothness and add filtering
 
-## License
-
-This project is open-source under the **MIT License**.
-Built with [MediaPipe](https://mediapipe.dev/) and [OpenCV](https://opencv.org/).
